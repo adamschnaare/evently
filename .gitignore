@@ -1,0 +1,8 @@
+node_modules
+dist
+Lerna-Profile**
+**-debug.log
+.firebase/
+.DS_STORE
+cypress/videos
+cypress/screenshots
